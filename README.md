@@ -1,7 +1,7 @@
 # Managing events in Payload CMS
 
 ## Requirements
-- Node.js (wersja 18 lub nowsza)
+- Node.js (version 18 or higher)
 - PostgreSQL
 
 ## Install
