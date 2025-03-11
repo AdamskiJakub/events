@@ -9,7 +9,7 @@
    ```bash
    git clone https://github.com/AdamskiJakub/events.git
    
-2. Installing dependencies
+2. Installing dependencies:
    npm install
    
 3. Creake file .env based on .env.example and fill it with your own data:
